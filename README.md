@@ -68,7 +68,7 @@ my_bytes = b"binary data"
 
 my_boolean = True
 
-# Printing the variables
+ Printing the Variables
 print("Integer:", my_integer)
 print("Float:", my_float)
 print("Complex:", my_complex)
@@ -191,7 +191,7 @@ Modules allow you to organize code logically and make it reusable across differe
 To create a module, simply create a .py file with your code.
 Example: Suppose you have a file named my_module.py with a function calculate_square(x):
 
-# my_module.py
+my_module.py
 def calculate_square(x):
     return x ** 2
 
